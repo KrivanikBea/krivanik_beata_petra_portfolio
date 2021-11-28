@@ -93,5 +93,18 @@ element.style {
 		padding:70px 0px 70px 0px;
 	}
 }
-
+@media screen and (max-width: 350px) {
+	.gombok div a {
+		font-size:23px ;
+	}
+	.portfolio p{
+		font-size: 50px;
+		padding-top: 30px;
+		line-height:50%;
+	}
+	.nev{
+		font-size: 45px;
+		padding:80px 0px 90px 0px;
+	}
+}
 /*responsivitás vége*/
